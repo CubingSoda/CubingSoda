@@ -11,122 +11,84 @@ Website: https://cubingsoda.pages.dev
 ### Languages, Libraries and Frameworks
 
 <div>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
-    <img
-      height="36"
-      title="HTML"
-      src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg"
-    />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img
-      height="36"
-      title="CSS"
-      src="assets/css.svg"
-    />
-  </a>
-  <a href="https://sass-lang.com" target="_blank">
-    <img
-      height="36"
-      title="Sass"
-      src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
-    <img
-      height="36"
-      title="JavaScript"
-      src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org" target="_blank">
-    <img
-      height="36"
-      title="TypeScript"
-      src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg"
-    />
-  </a>
-  <a href="https://reactjs.org" target="_blank">
-    <img
-      height="36"
-      title="React"
-      src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg"
-    />
-  </a>
-  <a href="https://nextjs.org" target="_blank">
-    <img
-      height="36"
-      title="Next.js"
-      src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next.svg"
-    />
-  </a>
+  <img
+    height="36"
+    title="HTML"
+    src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg"
+  />
+  <img height="36" title="CSS" src="assets/css.svg" />
+  <img
+    height="36"
+    title="Sass"
+    src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg"
+  />
+  <img
+    height="36"
+    title="JavaScript"
+    src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg"
+  />
+  <img
+    height="36"
+    title="TypeScript"
+    src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg"
+  />
+  <img
+    height="36"
+    title="React"
+    src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg"
+  />
+  <img
+    height="36"
+    title="Next.js"
+    src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next.svg"
+  />
 </div>
+
 
 ### Tools
 
-
-
 <div>
-  <a href="https://git-scm.com" target="_blank">
-    <img
-      height="36"
-      title="Git"
-      src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/git.svg"
-    />
-  </a>
-  <a href="https://github.com" target="_blank">
-    <img height="36" title="GitHub" src="assets/github.png" class="github" />
-  </a>
+  <img
+    height="36"
+    title="Git"
+    src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/git.svg"
+  />
+  <img height="36" title="GitHub" src="assets/github.png" class="github" />
   <img
     height="36"
     title="Terminal"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
   />
-  <a href="https://code.visualstudio.com" target="_blank">
-    <img
-      height="36"
-      title="Visual Studio Code"
-      src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vscode.svg"
-    />
-  </a>
-  <a href="https://www.npmjs.com" target="_blank">
-    <img
-      height="36"
-      title="NPM"
-      src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/73a6f3b57cb9ba44f67d1c000588bacda537ae00/icons/npm.svg"
-    />
-  </a>
-  <a href="https://yarnpkg.com" target="_blank">
-    <img
-      height="36"
-      title="Yarn"
-      src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/73a6f3b57cb9ba44f67d1c000588bacda537ae00/icons/yarn.svg"
-    />
-  </a>
-  <a href="https://eslint.org" target="_blank">
-    <img
-      height="36"
-      title="ESLint"
-      src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/73a6f3b57cb9ba44f67d1c000588bacda537ae00/icons/eslint.svg"
-    />
-  </a>
-  <a href="https://prettier.io" target="_blank">
-    <img
-      height="36"
-      title="Prettier"
-      src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/73a6f3b57cb9ba44f67d1c000588bacda537ae00/icons/prettier.svg"
-    />
-  </a>
-  <a href="https://vercel.com" target="_blank">
-    <img
-      height="36"
-      title="Vercel"
-      src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vercel_light.svg"
-    />
-  </a>
+  <img
+    height="36"
+    title="Visual Studio Code"
+    src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vscode.svg"
+  />
+  <img
+    height="36"
+    title="NPM"
+    src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/73a6f3b57cb9ba44f67d1c000588bacda537ae00/icons/npm.svg"
+  />
+  <img
+    height="36"
+    title="Yarn"
+    src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/73a6f3b57cb9ba44f67d1c000588bacda537ae00/icons/yarn.svg"
+  />
+  <img
+    height="36"
+    title="ESLint"
+    src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/73a6f3b57cb9ba44f67d1c000588bacda537ae00/icons/eslint.svg"
+  />
+  <img
+    height="36"
+    title="Prettier"
+    src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/73a6f3b57cb9ba44f67d1c000588bacda537ae00/icons/prettier.svg"
+  />
+  <img
+    height="36"
+    title="Vercel"
+    src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vercel_light.svg"
+  />
 </div>
 
 ## Stats
