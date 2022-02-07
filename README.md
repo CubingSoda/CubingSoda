@@ -11,7 +11,7 @@ Website: https://cubingsoda.pages.dev
 ### Languages, Libraries and Frameworks
 
 <div>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
     <img
       height="36"
       title="HTML"
@@ -67,17 +67,7 @@ Website: https://cubingsoda.pages.dev
 
 ### Tools
 
-<style>
-  a {
-    text-decoration: none !important;
-  }
 
-  @media (prefers-color-scheme: dark) {
-    .github {
-      filter: invert(100);
-    }
-  }
-</style>
 
 <div>
   <a href="https://git-scm.com" target="_blank">
