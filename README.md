@@ -28,7 +28,7 @@ Website: https://cubingsoda.pages.dev
   <img height="36" title="Prettier" src="assets/prettier.svg" />
 </div>
 
-## Stats
+<br />
 
 <img
   align="center"
