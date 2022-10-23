@@ -1,4 +1,4 @@
-<img align="right" width="350" height="350" src="assets/avatar.png">
+<img align="right" width="350" height="350" src="https://cubingsoda.pages.dev/img/icons/site.png">
 
 # Hi, I'm CubingSoda
 
